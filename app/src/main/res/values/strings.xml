@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">testlive</string>
+    <string name="button">Test</string>
+    <string name="eyes">Eyes</string>
+    <string name="mouth">Smile</string>
+    <string name="yaw">Yaw</string>
+    <string name="live_success">Liveness Success</string>
+    <string name="live_fail">Liveness Failure</string>
+    <string name="error">Error:</string>
+    <string name="random">Random</string>
+    <string name="match_face">Match_face</string>
+    <string name="check_again">Check Again</string>
+</resources>
